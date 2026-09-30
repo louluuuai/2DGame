@@ -1,0 +1,57 @@
+# ==============================
+# Unity
+# ==============================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+[Mm]emoryCaptures/
+
+# ==============================
+# Rider / JetBrains
+# ==============================
+
+.idea/
+
+# ==============================
+# Visual Studio / VS Code
+# ==============================
+
+.vs/
+.vscode/
+
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==============================
+# macOS
+# ==============================
+
+.DS_Store
+
+# ==============================
+# Windows
+# ==============================
+
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# Unity generated / crash files
+# ==============================
+
+sysinfo.txt
